@@ -7,7 +7,7 @@ def tarjetas(pliegos,plumones):
         return tarjetasPliegos
     else:
         return tarjetasPlumones
-
+#esta función determina el máximo sabiedno que necesitas más pliegos que plumones para las tarjetas
 def main():
     #escribe tu código abajo de esta línea
     pli = int(input("Dame la cantidad de pliegos de papel albanene: "))
